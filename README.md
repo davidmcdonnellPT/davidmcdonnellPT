@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-## Web Developer at ProfileTree
+#### My name is David, and I'm a Web Developer at [ProfileTree](https://profiletree.com)
+
+I'm currently working with Wordpress (Custom Builds & Elementor), but I'm beginning to dabble in Shopify.
 
 <!--
 **davidmcdonnellPT/davidmcdonnellPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
