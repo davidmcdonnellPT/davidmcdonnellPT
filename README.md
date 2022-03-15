@@ -2,7 +2,7 @@
 
 #### My name is David, and I'm a Web Developer at [ProfileTree](https://profiletree.com)
 
-I'm currently working with Wordpress (Custom Builds & Elementor), but I'm beginning to dabble in Shopify.
+I'm currently working with Wordpress (Custom Builds & Elementor) and Shopify.
 
 ⭐ My resolution for 2022 is to start using GitHub more and sharing helpful snippets.
 
